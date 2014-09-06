@@ -1,0 +1,1542 @@
+# depslib dependency file v1.0
+1343240145 source:c:\users\erika\google drive\trunfo++\game\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341425002 c:\users\erika\google drive\trunfo++\game\inicia.h
+
+1407440944 source:c:\users\erika\google drive\trunfo++\game\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<iostream>
+	"src/stack.h"
+	<vector>
+
+1407440799 c:\users\erika\google drive\trunfo++\game\src\stack.h
+	"List.h"
+
+1407440878 c:\users\erika\google drive\trunfo++\game\src\list.h
+
+1343240145 source:c:\users\user\google drive\trunfo++\game\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341425002 c:\users\user\google drive\trunfo++\game\inicia.h
+
+1407618963 source:c:\users\user\google drive\trunfo++\game\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1407618419 c:\users\user\google drive\trunfo++\game\src\allegromanager.h
+	"stdafx.h"
+
+1409563189 c:\users\user\google drive\trunfo++\game\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1407619150 source:c:\users\user\google drive\trunfo++\game\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1407297241 c:\users\user\google drive\trunfo++\game\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1406993028 c:\users\user\google drive\trunfo++\game\src\no.h
+	"stdafx.h"
+
+1409587665 source:c:\users\user\google drive\trunfo++\game\src\game.cpp
+	"Game.h"
+
+1409560782 c:\users\user\google drive\trunfo++\game\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Carta.h"
+
+1407618937 source:c:\users\user\google drive\trunfo++\game\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1407270667 source:c:\users\user\google drive\trunfo++\game\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1390352408 source:c:\users\user\google drive\trunfo++\game\src\stdafx.cpp
+	"stdafx.h"
+
+1409561328 source:c:\users\user\google drive\trunfo++\game\src\carta.cpp
+	"Carta.h"
+
+1409561604 c:\users\user\google drive\trunfo++\game\src\carta.h
+	"stdafx.h"
+
+1409555478 c:\users\user\google drive\trunfo++\game\src\menu.h
+	"stdafx.h"
+
+1409555486 source:c:\users\user\google drive\trunfo++\game\src\menu.cpp
+	"Menu.h"
+
+1407604562 source:c:\users\andre\desktop\game\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1407603918 c:\users\andre\desktop\game\src\allegromanager.h
+	"stdafx.h"
+
+1409548788 c:\users\andre\desktop\game\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1407604750 source:c:\users\andre\desktop\game\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1407282840 c:\users\andre\desktop\game\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1406978628 c:\users\andre\desktop\game\src\no.h
+	"stdafx.h"
+
+1409713419 source:c:\users\andre\desktop\game\src\carta.cpp
+	"Carta.h"
+
+1409713419 c:\users\andre\desktop\game\src\carta.h
+	"stdafx.h"
+
+1409730048 source:c:\users\andre\desktop\game\src\game.cpp
+	"Game.h"
+
+1409729859 c:\users\andre\desktop\game\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+
+1409541078 c:\users\andre\desktop\game\src\menu.h
+	"stdafx.h"
+
+1407604536 source:c:\users\andre\desktop\game\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409541086 source:c:\users\andre\desktop\game\src\menu.cpp
+	"Menu.h"
+
+1407256266 source:c:\users\andre\desktop\game\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1390334408 source:c:\users\andre\desktop\game\src\stdafx.cpp
+	"stdafx.h"
+
+1409734258 c:\users\andre\desktop\game\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+
+1409735328 source:c:\users\andre\desktop\game\src\baralho.cpp
+	"Baralho.h"
+
+1407603898 c:\users\andre\desktop\game\src\stack.h
+	"List.h"
+
+1407426478 c:\users\andre\desktop\game\src\list.h
+
+1409737475 source:c:\users\erika\google drive\trunfo++\gamev2\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\erika\google drive\trunfo++\gamev2\src\allegromanager.h
+	"stdafx.h"
+
+1409755115 c:\users\erika\google drive\trunfo++\gamev2\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409766200 source:c:\users\erika\google drive\trunfo++\gamev2\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409767349 c:\users\erika\google drive\trunfo++\gamev2\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1408058874 c:\users\erika\google drive\trunfo++\gamev2\src\no.h
+	"stdafx.h"
+
+1409783523 source:c:\users\erika\google drive\trunfo++\gamev2\src\baralho.cpp
+	"Baralho.h"
+
+1409758115 c:\users\erika\google drive\trunfo++\gamev2\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409756548 c:\users\erika\google drive\trunfo++\gamev2\src\carta.h
+	"stdafx.h"
+
+1409781936 c:\users\erika\google drive\trunfo++\gamev2\src\list.h
+
+1409782583 c:\users\erika\google drive\trunfo++\gamev2\src\stack.h
+	"List.h"
+
+1409756548 source:c:\users\erika\google drive\trunfo++\gamev2\src\carta.cpp
+	"Carta.h"
+
+1409737497 source:c:\users\erika\google drive\trunfo++\gamev2\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409757232 c:\users\erika\google drive\trunfo++\gamev2\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+
+1409737501 c:\users\erika\google drive\trunfo++\gamev2\src\menu.h
+	"stdafx.h"
+
+1409737498 source:c:\users\erika\google drive\trunfo++\gamev2\src\menu.cpp
+	"Menu.h"
+
+1408059318 source:c:\users\erika\google drive\trunfo++\gamev2\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\erika\google drive\trunfo++\gamev2\src\stdafx.cpp
+	"stdafx.h"
+
+1409768337 source:c:\users\erika\google drive\trunfo++\gamev2\src\game.cpp
+	"Game.h"
+
+1409737475 source:c:\users\andre\google drive\trunfo++\gamev2\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\andre\google drive\trunfo++\gamev2\src\allegromanager.h
+	"stdafx.h"
+
+1409755115 c:\users\andre\google drive\trunfo++\gamev2\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409766200 source:c:\users\andre\google drive\trunfo++\gamev2\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409767349 c:\users\andre\google drive\trunfo++\gamev2\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1408058874 c:\users\andre\google drive\trunfo++\gamev2\src\no.h
+	"stdafx.h"
+
+1409789084 source:c:\users\andre\google drive\trunfo++\gamev2\src\carta.cpp
+	"Carta.h"
+
+1409789066 c:\users\andre\google drive\trunfo++\gamev2\src\carta.h
+	"stdafx.h"
+
+1409788116 source:c:\users\andre\google drive\trunfo++\gamev2\src\game.cpp
+	"Game.h"
+
+1409787321 c:\users\andre\google drive\trunfo++\gamev2\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784672 c:\users\andre\google drive\trunfo++\gamev2\src\menu.h
+	"stdafx.h"
+
+1409787811 c:\users\andre\google drive\trunfo++\gamev2\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409781936 c:\users\andre\google drive\trunfo++\gamev2\src\list.h
+
+1409782583 c:\users\andre\google drive\trunfo++\gamev2\src\stack.h
+	"List.h"
+
+1409737497 source:c:\users\andre\google drive\trunfo++\gamev2\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786106 source:c:\users\andre\google drive\trunfo++\gamev2\src\menu.cpp
+	"Menu.h"
+
+1408059318 source:c:\users\andre\google drive\trunfo++\gamev2\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\andre\google drive\trunfo++\gamev2\src\stdafx.cpp
+	"stdafx.h"
+
+1409788461 source:c:\users\andre\google drive\trunfo++\gamev2\src\baralho.cpp
+	"Baralho.h"
+
+1409784321 c:\users\andre\google drive\trunfo++\gamev2\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784321 c:\users\andre\google drive\trunfo++\gamev2\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409784321 source:c:\users\andre\google drive\trunfo++\gamev2\src\thread.cpp
+	"Thread.h"
+
+1409786411 source:c:\users\andre\google drive\trunfo++\gamev2\src\timer.cpp
+	"Timer.h"
+
+1409788116 c:\users\andre\google drive\trunfo++\gamev2\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409788225 source:c:\users\andre\google drive\trunfo++\gamev2\src\mesa.cpp
+	"Mesa.h"
+
+1409737475 source:c:\users\andre\desktop\v3\gamev2\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\andre\desktop\v3\gamev2\src\allegromanager.h
+	"stdafx.h"
+
+1409755115 c:\users\andre\desktop\v3\gamev2\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409766200 source:c:\users\andre\desktop\v3\gamev2\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409767349 c:\users\andre\desktop\v3\gamev2\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1408058874 c:\users\andre\desktop\v3\gamev2\src\no.h
+	"stdafx.h"
+
+1409789084 source:c:\users\andre\desktop\v3\gamev2\src\carta.cpp
+	"Carta.h"
+
+1409789066 c:\users\andre\desktop\v3\gamev2\src\carta.h
+	"stdafx.h"
+
+1409788116 source:c:\users\andre\desktop\v3\gamev2\src\game.cpp
+	"Game.h"
+
+1409787321 c:\users\andre\desktop\v3\gamev2\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784672 c:\users\andre\desktop\v3\gamev2\src\menu.h
+	"stdafx.h"
+
+1409787811 c:\users\andre\desktop\v3\gamev2\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409781936 c:\users\andre\desktop\v3\gamev2\src\list.h
+
+1409782583 c:\users\andre\desktop\v3\gamev2\src\stack.h
+	"List.h"
+
+1409784321 c:\users\andre\desktop\v3\gamev2\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784321 c:\users\andre\desktop\v3\gamev2\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409788116 c:\users\andre\desktop\v3\gamev2\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737497 source:c:\users\andre\desktop\v3\gamev2\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786106 source:c:\users\andre\desktop\v3\gamev2\src\menu.cpp
+	"Menu.h"
+
+1409788225 source:c:\users\andre\desktop\v3\gamev2\src\mesa.cpp
+	"Mesa.h"
+
+1408059318 source:c:\users\andre\desktop\v3\gamev2\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\andre\desktop\v3\gamev2\src\stdafx.cpp
+	"stdafx.h"
+
+1409784321 source:c:\users\andre\desktop\v3\gamev2\src\thread.cpp
+	"Thread.h"
+
+1409786411 source:c:\users\andre\desktop\v3\gamev2\src\timer.cpp
+	"Timer.h"
+
+1409737476 source:c:\users\erika\google drive\trunfo++\gamev3\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\erika\google drive\trunfo++\gamev3\src\allegromanager.h
+	"stdafx.h"
+
+1409755116 c:\users\erika\google drive\trunfo++\gamev3\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409766200 source:c:\users\erika\google drive\trunfo++\gamev3\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409767350 c:\users\erika\google drive\trunfo++\gamev3\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1408058874 c:\users\erika\google drive\trunfo++\gamev3\src\no.h
+	"stdafx.h"
+
+1409789086 source:c:\users\erika\google drive\trunfo++\gamev3\src\carta.cpp
+	"Carta.h"
+
+1409789068 c:\users\erika\google drive\trunfo++\gamev3\src\carta.h
+	"stdafx.h"
+
+1409788118 source:c:\users\erika\google drive\trunfo++\gamev3\src\game.cpp
+	"Game.h"
+
+1409787322 c:\users\erika\google drive\trunfo++\gamev3\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\erika\google drive\trunfo++\gamev3\src\menu.h
+	"stdafx.h"
+
+1409787812 c:\users\erika\google drive\trunfo++\gamev3\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409781936 c:\users\erika\google drive\trunfo++\gamev3\src\list.h
+
+1409782584 c:\users\erika\google drive\trunfo++\gamev3\src\stack.h
+	"List.h"
+
+1409784322 c:\users\erika\google drive\trunfo++\gamev3\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\erika\google drive\trunfo++\gamev3\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409788118 c:\users\erika\google drive\trunfo++\gamev3\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\erika\google drive\trunfo++\gamev3\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\erika\google drive\trunfo++\gamev3\src\menu.cpp
+	"Menu.h"
+
+1409788226 source:c:\users\erika\google drive\trunfo++\gamev3\src\mesa.cpp
+	"Mesa.h"
+
+1408059318 source:c:\users\erika\google drive\trunfo++\gamev3\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\erika\google drive\trunfo++\gamev3\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\erika\google drive\trunfo++\gamev3\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\erika\google drive\trunfo++\gamev3\src\timer.cpp
+	"Timer.h"
+
+1409790634 source:c:\users\erika\google drive\trunfo++\gamev3\src\baralho.cpp
+	"Baralho.h"
+
+1409737476 source:c:\users\andre\desktop\gamev3\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\andre\desktop\gamev3\src\allegromanager.h
+	"stdafx.h"
+
+1409755116 c:\users\andre\desktop\gamev3\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409766200 source:c:\users\andre\desktop\gamev3\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409767350 c:\users\andre\desktop\gamev3\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1408058874 c:\users\andre\desktop\gamev3\src\no.h
+	"stdafx.h"
+
+1409803607 source:c:\users\andre\desktop\gamev3\src\carta.cpp
+	"Carta.h"
+
+1409789068 c:\users\andre\desktop\gamev3\src\carta.h
+	"stdafx.h"
+
+1409788118 source:c:\users\andre\desktop\gamev3\src\game.cpp
+	"Game.h"
+
+1409787322 c:\users\andre\desktop\gamev3\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\andre\desktop\gamev3\src\menu.h
+	"stdafx.h"
+
+1409805266 c:\users\andre\desktop\gamev3\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409781936 c:\users\andre\desktop\gamev3\src\list.h
+
+1409782584 c:\users\andre\desktop\gamev3\src\stack.h
+	"List.h"
+
+1409784322 c:\users\andre\desktop\gamev3\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\andre\desktop\gamev3\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409802960 c:\users\andre\desktop\gamev3\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\andre\desktop\gamev3\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\andre\desktop\gamev3\src\menu.cpp
+	"Menu.h"
+
+1409802960 source:c:\users\andre\desktop\gamev3\src\mesa.cpp
+	"Mesa.h"
+
+1408059318 source:c:\users\andre\desktop\gamev3\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\andre\desktop\gamev3\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\andre\desktop\gamev3\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\andre\desktop\gamev3\src\timer.cpp
+	"Timer.h"
+
+1409803065 source:c:\users\andre\desktop\gamev3\src\baralho.cpp
+	"Baralho.h"
+
+1409737476 source:c:\users\erika\google drive\trunfo++\gamev4\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\erika\google drive\trunfo++\gamev4\src\allegromanager.h
+	"stdafx.h"
+
+1409836073 c:\users\erika\google drive\trunfo++\gamev4\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409802232 source:c:\users\erika\google drive\trunfo++\gamev4\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409801484 c:\users\erika\google drive\trunfo++\gamev4\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1409800545 c:\users\erika\google drive\trunfo++\gamev4\src\no.h
+	"stdafx.h"
+
+1409823805 source:c:\users\erika\google drive\trunfo++\gamev4\src\carta.cpp
+	"Carta.h"
+
+1409822531 c:\users\erika\google drive\trunfo++\gamev4\src\carta.h
+	"stdafx.h"
+
+1409737498 source:c:\users\erika\google drive\trunfo++\gamev4\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409838169 c:\users\erika\google drive\trunfo++\gamev4\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\erika\google drive\trunfo++\gamev4\src\menu.h
+	"stdafx.h"
+
+1409847199 c:\users\erika\google drive\trunfo++\gamev4\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+	"Jogada.h"
+
+1409781936 c:\users\erika\google drive\trunfo++\gamev4\src\list.h
+
+1409782584 c:\users\erika\google drive\trunfo++\gamev4\src\stack.h
+	"List.h"
+
+1409784322 c:\users\erika\google drive\trunfo++\gamev4\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\erika\google drive\trunfo++\gamev4\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409835088 c:\users\erika\google drive\trunfo++\gamev4\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409786108 source:c:\users\erika\google drive\trunfo++\gamev4\src\menu.cpp
+	"Menu.h"
+
+1409800909 source:c:\users\erika\google drive\trunfo++\gamev4\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\erika\google drive\trunfo++\gamev4\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\erika\google drive\trunfo++\gamev4\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\erika\google drive\trunfo++\gamev4\src\timer.cpp
+	"Timer.h"
+
+1409838255 source:c:\users\erika\google drive\trunfo++\gamev4\src\game.cpp
+	"Game.h"
+
+1409835062 source:c:\users\erika\google drive\trunfo++\gamev4\src\mesa.cpp
+	"Mesa.h"
+
+1409847424 source:c:\users\erika\google drive\trunfo++\gamev4\src\baralho.cpp
+	"Baralho.h"
+
+1409737476 source:c:\users\andre\google drive\trunfo++\gamev4\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\andre\google drive\trunfo++\gamev4\src\allegromanager.h
+	"stdafx.h"
+
+1409755116 c:\users\andre\google drive\trunfo++\gamev4\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409766200 source:c:\users\andre\google drive\trunfo++\gamev4\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409767350 c:\users\andre\google drive\trunfo++\gamev4\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1408058874 c:\users\andre\google drive\trunfo++\gamev4\src\no.h
+	"stdafx.h"
+
+1409814691 source:c:\users\andre\google drive\trunfo++\gamev4\src\carta.cpp
+	"Carta.h"
+
+1409813792 c:\users\andre\google drive\trunfo++\gamev4\src\carta.h
+	"stdafx.h"
+
+1409810896 source:c:\users\andre\google drive\trunfo++\gamev4\src\game.cpp
+	"Game.h"
+
+1409787322 c:\users\andre\google drive\trunfo++\gamev4\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\andre\google drive\trunfo++\gamev4\src\menu.h
+	"stdafx.h"
+
+1409817171 c:\users\andre\google drive\trunfo++\gamev4\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409781936 c:\users\andre\google drive\trunfo++\gamev4\src\list.h
+
+1409782584 c:\users\andre\google drive\trunfo++\gamev4\src\stack.h
+	"List.h"
+
+1409784322 c:\users\andre\google drive\trunfo++\gamev4\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\andre\google drive\trunfo++\gamev4\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409815548 c:\users\andre\google drive\trunfo++\gamev4\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\andre\google drive\trunfo++\gamev4\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\andre\google drive\trunfo++\gamev4\src\menu.cpp
+	"Menu.h"
+
+1409816577 source:c:\users\andre\google drive\trunfo++\gamev4\src\mesa.cpp
+	"Mesa.h"
+
+1408059318 source:c:\users\andre\google drive\trunfo++\gamev4\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\andre\google drive\trunfo++\gamev4\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\andre\google drive\trunfo++\gamev4\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\andre\google drive\trunfo++\gamev4\src\timer.cpp
+	"Timer.h"
+
+1409813736 source:c:\users\andre\google drive\trunfo++\gamev4\src\baralho.cpp
+	"Baralho.h"
+
+1409737476 source:c:\users\user\google drive\trunfo++\gamev4\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\user\google drive\trunfo++\gamev4\src\allegromanager.h
+	"stdafx.h"
+
+1409755116 c:\users\user\google drive\trunfo++\gamev4\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409802232 source:c:\users\user\google drive\trunfo++\gamev4\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409801484 c:\users\user\google drive\trunfo++\gamev4\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1409800545 c:\users\user\google drive\trunfo++\gamev4\src\no.h
+	"stdafx.h"
+
+1409827117 source:c:\users\user\google drive\trunfo++\gamev4\src\baralho.cpp
+	"Baralho.h"
+
+1409834428 c:\users\user\google drive\trunfo++\gamev4\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409822531 c:\users\user\google drive\trunfo++\gamev4\src\carta.h
+	"stdafx.h"
+
+1409781936 c:\users\user\google drive\trunfo++\gamev4\src\list.h
+
+1409782584 c:\users\user\google drive\trunfo++\gamev4\src\stack.h
+	"List.h"
+
+1409810896 source:c:\users\user\google drive\trunfo++\gamev4\src\game.cpp
+	"Game.h"
+
+1409787322 c:\users\user\google drive\trunfo++\gamev4\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\user\google drive\trunfo++\gamev4\src\menu.h
+	"stdafx.h"
+
+1409784322 c:\users\user\google drive\trunfo++\gamev4\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\user\google drive\trunfo++\gamev4\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409832636 c:\users\user\google drive\trunfo++\gamev4\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\user\google drive\trunfo++\gamev4\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\user\google drive\trunfo++\gamev4\src\menu.cpp
+	"Menu.h"
+
+1409822097 source:c:\users\user\google drive\trunfo++\gamev4\src\mesa.cpp
+	"Mesa.h"
+
+1409800909 source:c:\users\user\google drive\trunfo++\gamev4\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\user\google drive\trunfo++\gamev4\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\user\google drive\trunfo++\gamev4\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\user\google drive\trunfo++\gamev4\src\timer.cpp
+	"Timer.h"
+
+1409823805 source:c:\users\user\google drive\trunfo++\gamev4\src\carta.cpp
+	"Carta.h"
+
+1409847379 c:\users\erika\google drive\trunfo++\gamev4\src\jogada.h
+	"Stack.h"
+
+1409737476 source:c:\users\erika\google drive\trunfo++\gamev5\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\erika\google drive\trunfo++\gamev5\src\allegromanager.h
+	"stdafx.h"
+
+1409836073 c:\users\erika\google drive\trunfo++\gamev5\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409802232 source:c:\users\erika\google drive\trunfo++\gamev5\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409801484 c:\users\erika\google drive\trunfo++\gamev5\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1409800545 c:\users\erika\google drive\trunfo++\gamev5\src\no.h
+	"stdafx.h"
+
+1409854207 source:c:\users\erika\google drive\trunfo++\gamev5\src\baralho.cpp
+	"Baralho.h"
+
+1409852375 c:\users\erika\google drive\trunfo++\gamev5\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+	"Jogada.h"
+
+1409851588 c:\users\erika\google drive\trunfo++\gamev5\src\carta.h
+	"stdafx.h"
+
+1409850245 c:\users\erika\google drive\trunfo++\gamev5\src\list.h
+
+1409782584 c:\users\erika\google drive\trunfo++\gamev5\src\stack.h
+	"List.h"
+
+1409851751 c:\users\erika\google drive\trunfo++\gamev5\src\jogada.h
+	"Stack.h"
+
+1409851612 source:c:\users\erika\google drive\trunfo++\gamev5\src\carta.cpp
+	"Carta.h"
+
+1409838255 source:c:\users\erika\google drive\trunfo++\gamev5\src\game.cpp
+	"Game.h"
+
+1409838169 c:\users\erika\google drive\trunfo++\gamev5\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\erika\google drive\trunfo++\gamev5\src\menu.h
+	"stdafx.h"
+
+1409784322 c:\users\erika\google drive\trunfo++\gamev5\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\erika\google drive\trunfo++\gamev5\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409835088 c:\users\erika\google drive\trunfo++\gamev5\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\erika\google drive\trunfo++\gamev5\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\erika\google drive\trunfo++\gamev5\src\menu.cpp
+	"Menu.h"
+
+1409835062 source:c:\users\erika\google drive\trunfo++\gamev5\src\mesa.cpp
+	"Mesa.h"
+
+1409800909 source:c:\users\erika\google drive\trunfo++\gamev5\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\erika\google drive\trunfo++\gamev5\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\erika\google drive\trunfo++\gamev5\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\erika\google drive\trunfo++\gamev5\src\timer.cpp
+	"Timer.h"
+
+1409737476 source:c:\users\andre\google drive\trunfo++\gamev5\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\andre\google drive\trunfo++\gamev5\src\allegromanager.h
+	"stdafx.h"
+
+1409864666 c:\users\andre\google drive\trunfo++\gamev5\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409870793 source:c:\users\andre\google drive\trunfo++\gamev5\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409801484 c:\users\andre\google drive\trunfo++\gamev5\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1409800545 c:\users\andre\google drive\trunfo++\gamev5\src\no.h
+	"stdafx.h"
+
+1409871167 source:c:\users\andre\google drive\trunfo++\gamev5\src\baralho.cpp
+	"Baralho.h"
+
+1409862947 c:\users\andre\google drive\trunfo++\gamev5\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409851588 c:\users\andre\google drive\trunfo++\gamev5\src\carta.h
+	"stdafx.h"
+
+1409850245 c:\users\andre\google drive\trunfo++\gamev5\src\list.h
+
+1409782584 c:\users\andre\google drive\trunfo++\gamev5\src\stack.h
+	"List.h"
+
+1409851751 c:\users\andre\google drive\trunfo++\gamev5\src\jogada.h
+	"Stack.h"
+
+1409861601 source:c:\users\andre\google drive\trunfo++\gamev5\src\carta.cpp
+	"Carta.h"
+
+1409838255 source:c:\users\andre\google drive\trunfo++\gamev5\src\game.cpp
+	"Game.h"
+
+1409838169 c:\users\andre\google drive\trunfo++\gamev5\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\andre\google drive\trunfo++\gamev5\src\menu.h
+	"stdafx.h"
+
+1409784322 c:\users\andre\google drive\trunfo++\gamev5\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\andre\google drive\trunfo++\gamev5\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409835088 c:\users\andre\google drive\trunfo++\gamev5\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\andre\google drive\trunfo++\gamev5\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\andre\google drive\trunfo++\gamev5\src\menu.cpp
+	"Menu.h"
+
+1409863957 source:c:\users\andre\google drive\trunfo++\gamev5\src\mesa.cpp
+	"Mesa.h"
+
+1409800909 source:c:\users\andre\google drive\trunfo++\gamev5\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\andre\google drive\trunfo++\gamev5\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\andre\google drive\trunfo++\gamev5\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\andre\google drive\trunfo++\gamev5\src\timer.cpp
+	"Timer.h"
+
+1409737476 source:c:\users\user\desktop\gamev5\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\user\desktop\gamev5\src\allegromanager.h
+	"stdafx.h"
+
+1409864668 c:\users\user\desktop\gamev5\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409870794 source:c:\users\user\desktop\gamev5\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409801484 c:\users\user\desktop\gamev5\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1409800546 c:\users\user\desktop\gamev5\src\no.h
+	"stdafx.h"
+
+1409871168 source:c:\users\user\desktop\gamev5\src\baralho.cpp
+	"Baralho.h"
+
+1409862948 c:\users\user\desktop\gamev5\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409851588 c:\users\user\desktop\gamev5\src\carta.h
+	"stdafx.h"
+
+1409850246 c:\users\user\desktop\gamev5\src\list.h
+
+1409782584 c:\users\user\desktop\gamev5\src\stack.h
+	"List.h"
+
+1409861602 source:c:\users\user\desktop\gamev5\src\carta.cpp
+	"Carta.h"
+
+1409838256 source:c:\users\user\desktop\gamev5\src\game.cpp
+	"Game.h"
+
+1409838170 c:\users\user\desktop\gamev5\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\user\desktop\gamev5\src\menu.h
+	"stdafx.h"
+
+1409784322 c:\users\user\desktop\gamev5\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\user\desktop\gamev5\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409835088 c:\users\user\desktop\gamev5\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\user\desktop\gamev5\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\user\desktop\gamev5\src\menu.cpp
+	"Menu.h"
+
+1409863958 source:c:\users\user\desktop\gamev5\src\mesa.cpp
+	"Mesa.h"
+
+1409800910 source:c:\users\user\desktop\gamev5\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\user\desktop\gamev5\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\user\desktop\gamev5\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\user\desktop\gamev5\src\timer.cpp
+	"Timer.h"
+
+1409737476 source:c:\users\user\desktop\trunfo++\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1409737476 c:\users\user\desktop\trunfo++\src\allegromanager.h
+	"stdafx.h"
+
+1409864668 c:\users\user\desktop\trunfo++\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<sstream>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<math.h>
+	<typeinfo>
+	<random>
+	<functional>
+
+1409870794 source:c:\users\user\desktop\trunfo++\src\arvore.cpp
+	"StdAfx.h"
+	"Arvore.h"
+
+1409801484 c:\users\user\desktop\trunfo++\src\arvore.h
+	"No.h"
+	"stdafx.h"
+
+1409800546 c:\users\user\desktop\trunfo++\src\no.h
+	"stdafx.h"
+
+1409871168 source:c:\users\user\desktop\trunfo++\src\baralho.cpp
+	"Baralho.h"
+
+1409862948 c:\users\user\desktop\trunfo++\src\baralho.h
+	"stdafx.h"
+	"Carta.h"
+	"List.h"
+	"Stack.h"
+	"Arvore.h"
+
+1409851588 c:\users\user\desktop\trunfo++\src\carta.h
+	"stdafx.h"
+
+1409850246 c:\users\user\desktop\trunfo++\src\list.h
+
+1409782584 c:\users\user\desktop\trunfo++\src\stack.h
+	"List.h"
+
+1409861602 source:c:\users\user\desktop\trunfo++\src\carta.cpp
+	"Carta.h"
+
+1409838256 source:c:\users\user\desktop\trunfo++\src\game.cpp
+	"Game.h"
+
+1409838170 c:\users\user\desktop\trunfo++\src\game.h
+	"stdafx.h"
+	"AllegroManager.h"
+	"Menu.h"
+	"Baralho.h"
+	"Carta.h"
+	<sstream>
+	"Timer.h"
+	"Mesa.h"
+
+1409784674 c:\users\user\desktop\trunfo++\src\menu.h
+	"stdafx.h"
+
+1409784322 c:\users\user\desktop\trunfo++\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1409784322 c:\users\user\desktop\trunfo++\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1409835088 c:\users\user\desktop\trunfo++\src\mesa.h
+	"stdafx.h"
+	"Baralho.h"
+	"Arvore.h"
+
+1409737498 source:c:\users\user\desktop\trunfo++\src\main.cpp
+	"stdafx.h"
+	"Game.h"
+
+1409786108 source:c:\users\user\desktop\trunfo++\src\menu.cpp
+	"Menu.h"
+
+1409863958 source:c:\users\user\desktop\trunfo++\src\mesa.cpp
+	"Mesa.h"
+
+1409800910 source:c:\users\user\desktop\trunfo++\src\no.cpp
+	"StdAfx.h"
+	"No.h"
+
+1409737508 source:c:\users\user\desktop\trunfo++\src\stdafx.cpp
+	"stdafx.h"
+
+1409784322 source:c:\users\user\desktop\trunfo++\src\thread.cpp
+	"Thread.h"
+
+1409786412 source:c:\users\user\desktop\trunfo++\src\timer.cpp
+	"Timer.h"
+
